@@ -6,9 +6,9 @@ com\eurotech\pages\DashboardPage.class
 com\eurotech\step_definitions\DashboardMenuStepDef.class
 com\eurotech\step_definitions\Hooks.class
 com\eurotech\utilities\ConfigurationReader.class
+com\eurotech\runners\failedTestRunner.class
 com\eurotech\step_definitions\LoginStepDefs.class
 com\eurotech\pages\ProfilePage.class
 com\eurotech\utilities\Driver.class
 com\eurotech\utilities\BrowserUtils$1.class
-com\eurotech\runners\FailedTestRunner.class
 com\eurotech\step_definitions\NavigationMenuStepDefs.class

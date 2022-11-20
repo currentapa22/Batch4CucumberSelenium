@@ -3,7 +3,7 @@ Feature: Navigate to Menu Parameters
   Background:
     Given The user is on the login page
 
-    @rerun
+    @rerun @smoke
   Scenario: User navigates to Developers Menu
 
     When The user logs in using "umut@gmail.com" and "Test12345!"

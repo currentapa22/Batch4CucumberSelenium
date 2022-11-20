@@ -1,12 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Navigate to Menu Parameters
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.758 s <<< FAILURE! - in Navigate to Menu Parameters
-Navigate to Menu Parameters.User navigates to All Posts Menu  Time elapsed: 6.758 s  <<< FAILURE!
-java.lang.AssertionError
-	at org.junit.Assert.fail(Assert.java:87)
-	at org.junit.Assert.assertTrue(Assert.java:42)
-	at org.junit.Assert.assertTrue(Assert.java:53)
-	at com.eurotech.step_definitions.LoginStepDefs.theWelcomeMessageContains(LoginStepDefs.java:65)
-	at ✽.The welcome message contains "umut"(file:///C:/Users/curre.LAPTOP-4RVABOQE/IdeaProjects/Batch4CucumberSelenium/src/test/resources/features/navigatesMenuWithParameters.feature:19)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.528 s - in Navigate to Menu Parameters
